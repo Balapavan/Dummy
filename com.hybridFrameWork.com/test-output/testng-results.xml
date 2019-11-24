@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2019-11-24T17:14:35Z" finished-at="2019-11-24T17:14:35Z">
+    <groups>
+    </groups>
+    <test name="TestNG" duration-ms="32" started-at="2019-11-24T17:14:35Z" finished-at="2019-11-24T17:14:35Z">
+      <class name="runningScripts.RunTestScrips">
+        <test-method status="PASS" signature="readyTolaunch()[pri:0, instance:runningScripts.RunTestScrips@4dfa3a9d]" name="readyTolaunch" is-config="true" duration-ms="512" started-at="2019-11-24T22:44:35Z" finished-at="2019-11-24T22:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readyTolaunch -->
+        <test-method status="PASS" signature="sample()[pri:0, instance:runningScripts.RunTestScrips@4dfa3a9d]" name="sample" duration-ms="8" started-at="2019-11-24T22:44:35Z" finished-at="2019-11-24T22:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method status="PASS" signature="didFinish()[pri:0, instance:runningScripts.RunTestScrips@4dfa3a9d]" name="didFinish" is-config="true" duration-ms="0" started-at="2019-11-24T22:44:35Z" finished-at="2019-11-24T22:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- didFinish -->
+      </class> <!-- runningScripts.RunTestScrips -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Suite -->
+</testng-results>
